@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ValkyrieCain9.github.io/artOfTea_tester/manifests/teaceremony_manifest.json",
     "label" : "Woman Performing the Tea Ceremony"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValkyrieCain9.github.io/artOfTea_tester/manifests/manifest.json",
+    "label" : "Woman Performing the Tea Ceremony"
   } ]
 }
