@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ValkyrieCain9.github.io/artOfTea_tester/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in ValkyrieCain9/artOfTea_tester project"
+        ]
+    },
+    "items": []
+}
