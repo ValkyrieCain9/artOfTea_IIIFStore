@@ -1,0 +1,119 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ValkyrieCain9.github.io/artOfTea_tester/manifests/chinesewomanpickingtea_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Chinese Women Picking Tea" ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://github.com/the-art-of-tea/The-Art-Of-Tea/blob/main/Resources/Images/Chinesewomanpicking.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg"
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/fb39c99wka-mj008orv/canvas/g27fcq97lk7-mj008ssl",
+    "type" : "Canvas",
+    "height" : 2999,
+    "width" : 2842,
+    "label" : {
+      "en" : [ "Chinese Woman Picking Tea" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "bf:mainTitle" ]
+      },
+      "value" : {
+        "en" : [ "A Chinese woman picking tea leaves. Wood engraving, 1857, after a pen and ink drawing." ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "dcterms:coverage" ]
+      },
+      "value" : {
+        "en" : [ "English" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "dcterms:medium" ]
+      },
+      "value" : {
+        "en" : [ "1 print : wood engraving, periodical illustrations " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "dcterms:subject" ]
+      },
+      "value" : {
+        "en" : [ "Tea, Tea plantation workers, Women tea plantation workers, Baskets, Psychotropic plants, Theaceae" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "dcterms:source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.jstor.org/stable/community.24844945" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "Chinese woman gathering tea - from a drawing by a Chinese artist" ]
+    },
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "thumbnail" : [ {
+      "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/full/356,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 375,
+      "width" : 356
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/fb39c99wka-mj008orv/canvas/g27fcq97lk7-mj008ssl/annotation-page/olb1l6kdecn-mj008ssl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/fb39c99wka-mj008orv/annotation/bir7a55bx66-mj008ssl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/fb39c99wka-mj008orv/canvas/g27fcq97lk7-mj008ssl",
+        "body" : {
+          "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2999,
+          "width" : 2842,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 94
+            }, {
+              "width" : 178,
+              "height" : 188
+            }, {
+              "width" : 356,
+              "height" : 375
+            }, {
+              "width" : 711,
+              "height" : 750
+            }, {
+              "width" : 1421,
+              "height" : 1500
+            }, {
+              "width" : 2842,
+              "height" : 2999
+            } ],
+            "profile" : "level0",
+            "width" : 2842,
+            "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2999
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
