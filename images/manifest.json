@@ -7,5 +7,87 @@
             "All images loaded in ValkyrieCain9/artOfTea_IIIFStore project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Chinesewomanpicking"
+                ]
+            },
+            "height": 2999,
+            "width": 2842,
+            "items": [
+                {
+                    "id": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 89,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 178,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 356,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 711,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1421,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 2842,
+                                                "height": 2999
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2842,
+                                        "id": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2999
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/images/Chinesewomanpicking/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
