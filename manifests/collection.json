@@ -1,0 +1,15 @@
+{
+  "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ValkyrieCain9/artOfTea_IIIFStore project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/BookOfTea_manifest.json",
+    "label" : {
+      "none" : [ "The Book of Tea by Okakura, Kakuzo, 1862-1913" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
