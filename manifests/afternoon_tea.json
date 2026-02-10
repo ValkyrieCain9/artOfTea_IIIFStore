@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/afternoon_tea.json",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "Afternoon Tea" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "Three young woman are sitting at table in a garden having afternoon tea, with a large fruit cake. Colour wood engraving by E. Evans after Kate Greenaway." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator (drawing)" ]
+    },
+    "value" : {
+      "en" : [ "Kate Greenaway (1846-1901)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator (wood engraving)" ]
+    },
+    "value" : {
+      "en" : [ "Edmund Evans (1826-1905)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Work type" ]
+    },
+    "value" : {
+      "en" : [ "Wood engravings" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Medium" ]
+    },
+    "value" : {
+      "en" : [ "1 print : wood engraving, printed in colours" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Measurements" ]
+    },
+    "value" : {
+      "en" : [ "image 14.9 x 20.2 cm" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject" ]
+    },
+    "value" : {
+      "en" : [ "Afternoon Tea, Tea Culture, United Kingdom" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "Three young woman are sitting at table in a garden having afternoon tea, with a large fruit cake. Colour wood engraving by E. Evans after Kate Greenaway." ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "JSTOR Open: Wellcome Collection" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://shiho1000.github.io/SDL_project/manifests/afternoontea.json/provider/c54xq239dzq-mlgh78v7",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Art of Tea - Digital Library" ]
+    }
+  } ],
+  "seeAlso" : [ {
+    "id" : "https://www.jstor.org/stable/community.24885633",
+    "type" : "Text",
+    "format" : "text/html",
+    "label" : {
+      "en" : [ "Source" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "http://c5a1cf9a-86d0-438c-bf55-1837de417d8b",
+    "type" : "Canvas",
+    "height" : 2329,
+    "width" : 3189,
+    "label" : {
+      "none" : [ "Afternoon Tea" ]
+    },
+    "items" : [ {
+      "id" : "http://c5a1cf9a-86d0-438c-bf55-1837de417d8b/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://ea6fc253-a7bc-4e55-b93b-0c31dd4ff36d",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://c5a1cf9a-86d0-438c-bf55-1837de417d8b",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/Threeyoungwoman/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2329,
+          "width" : 3189,
+          "service" : [ {
+            "@id" : "https://shiho1000.github.io/SDL_project/images/Threeyoungwoman",
+            "@type" : "ImageService2",
+            "profile" : "level0"
+          } ]
+        }
+      } ]
+    } ]
+  } ],
+  "navPlace" : {
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "type" : "Feature",
+      "properties" : { },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -2.197266, 54.486395 ]
+      }
+    } ]
+  }
+}
