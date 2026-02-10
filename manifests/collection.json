@@ -17,5 +17,11 @@
       "none" : [ "A Journey to the Tea Countries of China" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/afternoon_tea.json",
+    "label" : {
+      "none" : [ "Afternoon Tea" ]
+    },
+    "type" : "Manifest"
   } ]
 }
