@@ -11,5 +11,11 @@
       "none" : [ "The Book of Tea by Okakura, Kakuzo, 1862-1913" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/journeytoteacountries_manifest.json",
+    "label" : {
+      "none" : [ "A Journey to the Tea Countries of China" ]
+    },
+    "type" : "Manifest"
   } ]
 }
