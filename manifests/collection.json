@@ -23,5 +23,11 @@
       "none" : [ "Afternoon Tea" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/bookoftea_manifest.json",
+    "label" : {
+      "none" : [ "The Book of Tea" ]
+    },
+    "type" : "Manifest"
   } ]
 }
