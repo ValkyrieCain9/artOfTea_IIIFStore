@@ -29,5 +29,11 @@
       "none" : [ "The Book of Tea" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/mantastingtea.json",
+    "label" : {
+      "none" : [ "A man tasting tea with inset picture of kettles boiling." ]
+    },
+    "type" : "Manifest"
   } ]
 }
