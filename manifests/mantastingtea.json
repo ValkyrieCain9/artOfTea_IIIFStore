@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ValkyrieCain9.github.io/artOfTea_IIIFStore/manifests/mantastingtea.json",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "A man tasting tea with inset picture of kettles boiling." ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "A man tasting tea with inset picture of kettles boiling." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Unknown" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1890" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Work Type" ]
+    },
+    "value" : {
+      "en" : [ "Ink Drawing" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Medium" ]
+    },
+    "value" : {
+      "en" : [ "1 drawing : pen and ink" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "The tea taster at work The kettles ...; Lettering continues on top right: \"2 cols\"" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "The tea taster at work The kettles ...; Lettering continues on top right: \"2 cols\"" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "JSTOR: Open Wellcome Collection" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://shiho1000.github.io/SDL_project/manifests/manifest_mantastingtea.json/provider/v4kjmwm5bh-mlmrau3b",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Art of Tea - Digital Library" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "http://7a1aed1e-2346-4697-a6db-1b3fbffb268d",
+    "type" : "Canvas",
+    "height" : 2218,
+    "width" : 3150,
+    "label" : {
+      "none" : [ "Empty canvas" ]
+    },
+    "items" : [ {
+      "id" : "http://7a1aed1e-2346-4697-a6db-1b3fbffb268d/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://4641b061-5361-4b80-9905-ac4fdd01c4f3",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://7a1aed1e-2346-4697-a6db-1b3fbffb268d",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/Mantastingtea/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2218,
+          "width" : 3150,
+          "service" : [ {
+            "@id" : "https://shiho1000.github.io/SDL_project/images/Mantastingtea",
+            "@type" : "ImageService2",
+            "profile" : "level0"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
